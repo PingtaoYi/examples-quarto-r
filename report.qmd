@@ -170,9 +170,9 @@ ggplot(airquality, aes(Temp, Ozone)) +
 ```
 
 ### python
-```{python}
+```{python python.reticulate = FALSE}
 #| label: fig-polar
-#| fig-cap: "A line plot on a polar axis"
+#| fig-cap: A line plot on a polar axis
 
 import numpy as np
 import matplotlib.pyplot as plt
