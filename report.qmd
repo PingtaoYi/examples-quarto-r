@@ -14,6 +14,7 @@ library(httr2)
 library(sf)
 library(leaflet)
 library(gt)
+library(reticulate)
 ```
 
 ```{r}
